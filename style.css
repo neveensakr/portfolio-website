@@ -71,6 +71,8 @@ h1, .byLine, .info {
 
 .app-bar_icon {
     width: 35px;
+    mix-blend-mode: color-burn;
+    padding: 2px;
 }
 
 .slide {
